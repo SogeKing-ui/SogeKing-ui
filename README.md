@@ -6,7 +6,7 @@ Fun fact:
  - Naruto is my favorite anime
  - I love playing basketball
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
