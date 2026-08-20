@@ -64,21 +64,6 @@ I'm **Jehu**, an aspiring software engineer who likes building things that feel 
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/SogeKing-ui?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" alt="Followers" />
-<img src="https://img.shields.io/github/stars/SogeKing-ui?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" alt="Stars" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SogeKing-ui&theme=tokyo-night&hide_border=true&radius=8&area=true" alt="Contribution graph" />
-
-</div>
-
----
-
 <div align="center">
 
 *"Hard work is worthless for those that don't believe in themselves."*
