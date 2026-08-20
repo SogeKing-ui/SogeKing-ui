@@ -21,51 +21,6 @@ I'm **Jehu**, an aspiring software engineer who likes building things that feel 
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 [MusicHub](https://github.com/SogeKing-ui/MusicHub)
-A forum for music lovers — post about tracks and artists, upvote, comment, and read **AI-generated summaries** of any discussion.
-
-`React` `Supabase` `Netlify Functions` `Gemini`
-
-**[🌐 Live demo](https://musichub-jehu.netlify.app)**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ [Sorcerer Squad Creator](https://github.com/SogeKing-ui/Sorcerer-Squad-Creator)
-Full-stack CRUD app for building your own Jujutsu Kaisen squad, with a tiered power system that **re-themes the gallery** based on your squad's strength.
-
-`React` `React Router` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Data Dashboard](https://github.com/SogeKing-ui/Data-Dashboard)
-A dark, cinematic dashboard pulling live character data from the JJK API — filtering, charts, and detailed profiles.
-
-`React` `Recharts` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [CS Concept Flashcards](https://github.com/SogeKing-ui/Computer-Science-Concept-Flashcards)
-Interactive flashcards for practicing CS concepts — type a guess, get feedback, shuffle, track streaks, and retire mastered cards.
-
-`React` `Vite` `CSS`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <details open>
