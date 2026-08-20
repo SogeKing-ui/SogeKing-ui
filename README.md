@@ -68,7 +68,8 @@ I'm **Jehu**, an aspiring software engineer who likes building things that feel 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SogeKing-ui&theme=tokyonight&hide_border=true&border_radius=8" alt="Contribution streak" />
+<img src="https://img.shields.io/github/followers/SogeKing-ui?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" alt="Followers" />
+<img src="https://img.shields.io/github/stars/SogeKing-ui?style=for-the-badge&logo=github&color=58A6FF&labelColor=161B22" alt="Stars" />
 
 <br><br>
 
