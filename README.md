@@ -5,9 +5,6 @@
 <a href="https://www.linkedin.com/in/jehu-emilcar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:jehu03743@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 <a href="https://github.com/SogeKing-ui?tab=repositories">
   <img src="https://img.shields.io/badge/-Browse%20my%20projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
