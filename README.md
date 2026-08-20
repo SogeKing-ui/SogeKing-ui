@@ -16,18 +16,18 @@
 
 ## 👋 About Me
 
-> Aspiring software engineer who likes building things that feel good to use — clean interfaces, real data, and a little personality.
+> I'm an aspiring software engineer who likes building things that feel good to use, with clean interfaces, real data, and a little personality.
 
 > [!NOTE]
 > **Open to New Grad Software Engineer roles and internships.**
 > Graduating **November 2026** and available immediately after.
 
-- 🎓 &nbsp;**B.S. Computer Science** at *Florida Atlantic University*, minor in **Cybersecurity** — based in South Florida
-- 💼 &nbsp;Former **Software Engineer Intern @ Givelify**, where I cut donation-checkout defects by **30%** with automated UI test suites
-- 🧪 &nbsp;At home on both sides of the stack — React front ends, and the **Mocha / WebdriverIO / Jenkins** pipelines that keep them honest
-- 🏆 &nbsp;Built a dividend-analysis desktop app in under **36 hours** at **ShellHacks 2025**
-- 🤝 &nbsp;**Event Chair, National Society of Black Engineers** — grew chapter participation by **30%**
-- 🌱 &nbsp;Currently going deeper on full-stack React and backend databases
+- 🎓 &nbsp;Studying **B.S. Computer Science** with a minor in **Cybersecurity** at *Florida Atlantic University* in South Florida
+- 💼 &nbsp;Former **Software Engineer Intern at Givelify**, where I cut donation checkout defects by **30%** by building automated UI test suites
+- 🧪 &nbsp;Comfortable on both sides of the stack, building React front ends as well as the **Mocha**, **WebdriverIO**, and **Jenkins** pipelines that keep them reliable
+- 🏆 &nbsp;Built a desktop app for analyzing stock dividends in under **36 hours** at **ShellHacks 2025**
+- 🤝 &nbsp;Serving as **Event Chair** for the **National Society of Black Engineers**, where I grew chapter participation by **30%**
+- 🌱 &nbsp;Currently going deeper on full stack React and backend databases
 - 💬 &nbsp;Ask me about React, Supabase, test automation, or why Jujutsu Kaisen keeps showing up in my projects
 - 🏀 &nbsp;Naruto is my favorite anime, and ball is life
 
