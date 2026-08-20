@@ -1,14 +1,76 @@
-## Hello there!!
+<div align="center">
 
-I'm Jehu, an aspiring software engineer.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Jehu!;Aspiring+Software+Engineer;React+%2B+Supabase+Developer;Ball+is+life+%F0%9F%8F%80" alt="Typing intro" />
 
-Fun fact: 
- - Naruto is my favorite anime
- - I love playing basketball
+<a href="https://github.com/SogeKing-ui?tab=repositories">
+  <img src="https://img.shields.io/badge/-Browse%20my%20projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
+</a>
 
-## Tech Stack
+</div>
 
-**Languages**
+---
+
+## 👋 About Me
+
+I'm **Jehu**, an aspiring software engineer who likes building things that feel good to use — clean interfaces, real data, and a little personality.
+
+- 🍥 Naruto is my favorite anime
+- 🏀 I love playing basketball
+- 🌱 Currently going deeper on full-stack React and backend databases
+- 💬 Ask me about React, Supabase, or why Jujutsu Kaisen keeps showing up in my projects
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 [MusicHub](https://github.com/SogeKing-ui/MusicHub)
+A forum for music lovers — post about tracks and artists, upvote, comment, and read **AI-generated summaries** of any discussion.
+
+`React` `Supabase` `Netlify Functions` `Gemini`
+
+**[🌐 Live demo](https://musichub-jehu.netlify.app)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [Sorcerer Squad Creator](https://github.com/SogeKing-ui/Sorcerer-Squad-Creator)
+Full-stack CRUD app for building your own Jujutsu Kaisen squad, with a tiered power system that **re-themes the gallery** based on your squad's strength.
+
+`React` `React Router` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Data Dashboard](https://github.com/SogeKing-ui/Data-Dashboard)
+A dark, cinematic dashboard pulling live character data from the JJK API — filtering, charts, and detailed profiles.
+
+`React` `Recharts` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [CS Concept Flashcards](https://github.com/SogeKing-ui/Computer-Science-Concept-Flashcards)
+Interactive flashcards for practicing CS concepts — type a guess, get feedback, shuffle, track streaks, and retire mastered cards.
+
+`React` `Vite` `CSS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,14 +79,22 @@ Fun fact:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**
+</details>
+
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Backend & Tools**
+</details>
+
+<details open>
+<summary><b>Backend & Tools</b></summary>
+<br>
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,3 +104,27 @@ Fun fact:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+</details>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SogeKing-ui&theme=tokyonight&hide_border=true&border_radius=8" alt="Contribution streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SogeKing-ui&theme=tokyo-night&hide_border=true&radius=8&area=true" alt="Contribution graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+*"Hard work is worthless for those that don't believe in themselves."*
+
+</div>
