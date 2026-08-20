@@ -12,16 +12,15 @@
 
 ## 👋 About Me
 
-I'm **Jehu**, an aspiring software engineer who likes building things that feel good to use — clean interfaces, real data, and a little personality.
+I'm **Jehu**, an aspiring software engineer who likes building things that feel good to use like clean interfaces, real data, and a little personality.
 
-- 🍥 Naruto is my favorite anime
-- 🏀 I love playing basketball
+- Naruto is my favorite anime
+- I love playing basketball
 - 🌱 Currently going deeper on full-stack React and backend databases
-- 💬 Ask me about React, Supabase, or why Jujutsu Kaisen keeps showing up in my projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
