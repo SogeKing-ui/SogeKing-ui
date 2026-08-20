@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="850" height="220" role="img" aria-label="Jehu Emilcar - Aspiring Software Engineer">
+  <title>Jehu Emilcar — Aspiring Software Engineer</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="55%" stop-color="#12161F"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="55%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#3FCF8E"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0%" stop-color="#A371F7" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="850" height="220" rx="14"/></clipPath>
+  </defs>
+
+  <style>
+    .f { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+    /* Every element is fully visible at frame 0. Animation only ever moves
+       things away from, and back to, this readable resting state. */
+    .name   { font-size: 46px; font-weight: 700; fill: #E6EDF3; letter-spacing: -0.5px; }
+    .kicker { font-size: 15px; font-weight: 600; fill: #7D8590; letter-spacing: 3.4px; }
+    .role   { font-size: 21px; font-weight: 500; fill: #58A6FF; }
+    .rule   { fill: url(#accent); }
+
+    .blob    { animation: drift 14s ease-in-out infinite alternate; }
+    .blob.b2 { animation-duration: 18s; animation-delay: -6s; }
+    @keyframes drift {
+      from { transform: translate(0px, 0px)    scale(1);    opacity: .85; }
+      to   { transform: translate(46px, -22px) scale(1.16); opacity: 1;   }
+    }
+
+    .rule { animation: shimmer 3.6s ease-in-out infinite; }
+    @keyframes shimmer { 0%,100% { fill-opacity: .72; } 50% { fill-opacity: 1; } }
+
+    .r1 { opacity: 1; }
+    .r2, .r3 { opacity: 0; }
+    .role { animation: cycle 10.5s ease-in-out infinite; }
+    .r2 { animation-delay: 3.5s; }
+    .r3 { animation-delay: 7s; }
+    @keyframes cycle {
+      0%   { opacity: 1; transform: translateY(0); }
+      28%  { opacity: 1; transform: translateY(0); }
+      34%  { opacity: 0; transform: translateY(-7px); }
+      94%  { opacity: 0; transform: translateY(7px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    .dot { fill: #3FCF8E; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="850" height="220" fill="url(#bg)"/>
+    <circle class="blob b1" cx="700" cy="52"  r="150" fill="url(#glowA)"/>
+    <circle class="blob b2" cx="805" cy="196" r="130" fill="url(#glowB)"/>
+    <rect x="0" y="216" width="850" height="4" fill="url(#accent)" opacity="0.9"/>
+  </g>
+
+  <g class="f">
+    <text class="kicker" x="56" y="58">JEHU EMILCAR</text>
+    <text class="name"   x="56" y="112">Hey, I'm Jehu</text>
+    <rect class="rule" x="57" y="130" width="212" height="5" rx="2.5"/>
+
+    <circle class="dot" cx="62" cy="169" r="4.5"/>
+    <text class="role r1" x="80" y="176">Aspiring Software Engineer</text>
+    <text class="role r2" x="80" y="176">React + Supabase Developer</text>
+    <text class="role r3" x="80" y="176">Ball is life 🏀</text>
+  </g>
+</svg>

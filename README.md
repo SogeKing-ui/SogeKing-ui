@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Jehu!;Aspiring+Software+Engineer;React+%2B+Supabase+Developer;Ball+is+life+%F0%9F%8F%80" alt="Typing intro" />
+<img src="./banner.svg" alt="Jehu Emilcar — Aspiring Software Engineer" width="100%" />
 
 <a href="https://github.com/SogeKing-ui?tab=repositories">
   <img src="https://img.shields.io/badge/-Browse%20my%20projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" />
